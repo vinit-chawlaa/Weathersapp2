@@ -44,8 +44,7 @@ function Weathers() {
     return (
         <div className='Apps9'>
             <div className='Apps10'>
-                <br />
-                <br />
+             
                 <h1>Simple Weather App</h1>
 
                 <form onSubmit={getdata}>
