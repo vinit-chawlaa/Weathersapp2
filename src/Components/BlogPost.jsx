@@ -48,7 +48,7 @@ function Weathers() {
                 <h1>Simple Weather App</h1>
 
                 <form onSubmit={getdata}>
-                    <br />
+                   
                     <input
                         type='text'
                         className='inputs'
