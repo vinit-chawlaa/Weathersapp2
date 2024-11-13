@@ -50,9 +50,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100dvh;
+  height: 100vh;
   background: linear-gradient(135deg, #72edf2, #5151e5);
-  overflow: hidden;
 }
 
 .Apps10 {
@@ -146,10 +145,4 @@ form {
 .no-data {
   font-size: 16px;
   color: #666;
-}
-
-html, body {
-  margin: 0;
-  height: 100%;
-  overflow: hidden;
 }

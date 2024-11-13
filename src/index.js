@@ -3,12 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import BlogPost from './Components/BlogPost';
+import Weathers from './components/Weathers';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BlogPost />
+    <Weathers />
   </React.StrictMode>
 );
 
